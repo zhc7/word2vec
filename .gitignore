@@ -2,3 +2,5 @@
 data/.ignore_me/
 
 .idea/
+
+.DS_Store
